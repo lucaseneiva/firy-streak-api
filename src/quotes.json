@@ -1,0 +1,732 @@
+[
+  {
+    "id": "1",
+    "category": "celebrity_puns",
+    "author": "Jack Chamas",
+    "original_name": "Jackie Chan",
+    "text": "Seja água, meu amigo... mas com fogo na alma!",
+    "type": "loading_tip"
+  },
+  {
+    "id": "2",
+    "category": "celebrity_puns",
+    "author": "Fogarlett Johansson",
+    "original_name": "Scarlett Johansson",
+    "text": "Sua streak é mais quente que Hollywood!",
+    "type": "motivation"
+  },
+  {
+    "id": "3",
+    "category": "celebrity_puns",
+    "author": "Will Chama",
+    "original_name": "Will Smith",
+    "text": "Pursuit of Happiness é manter a chama acesa todo dia!",
+    "type": "motivation"
+  },
+  {
+    "id": "4",
+    "category": "celebrity_puns",
+    "author": "Angelina Folie",
+    "original_name": "Angelina Jolie",
+    "text": "Seja impossível de ignorar, como uma chama dançante!",
+    "type": "motivation"
+  },
+  {
+    "id": "5",
+    "category": "celebrity_puns",
+    "author": "Leonardo DiFogo",
+    "original_name": "Leonardo DiCaprio",
+    "text": "Titanic afundou, mas sua streak não vai!",
+    "type": "encouragement"
+  },
+  {
+    "id": "6",
+    "category": "celebrity_puns",
+    "author": "The Chama",
+    "original_name": "The Rock",
+    "text": "Can you smell what The Rock is cooking? É sua streak pegando fogo!",
+    "type": "motivation"
+  },
+  {
+    "id": "7",
+    "category": "celebrity_puns",
+    "author": "Elvis Brassley",
+    "original_name": "Elvis Presley",
+    "text": "Thank you, thank you very much... por manter o fogo vivo!",
+    "type": "celebration"
+  },
+  {
+    "id": "8",
+    "category": "celebrity_puns",
+    "author": "Michael Chackson",
+    "original_name": "Michael Jackson",
+    "text": "Hee-hee! Sua streak está pegando fogo!",
+    "type": "celebration"
+  },
+  {
+    "id": "9",
+    "category": "celebrity_puns",
+    "author": "Bruno Fogo",
+    "original_name": "Bruno Mars",
+    "text": "Count on me para manter sua chama acesa!",
+    "type": "motivation"
+  },
+  {
+    "id": "10",
+    "category": "celebrity_puns",
+    "author": "Beyoncé Incandescé",
+    "original_name": "Beyoncé",
+    "text": "Who run the world? Quem mantém a streak!",
+    "type": "motivation"
+  },
+  {
+    "id": "11",
+    "category": "celebrity_puns",
+    "author": "Ed Fogueira",
+    "original_name": "Ed Sheeran",
+    "text": "Shape of You é uma chama que nunca se apaga!",
+    "type": "motivation"
+  },
+  {
+    "id": "12",
+    "category": "celebrity_puns",
+    "author": "Taylor Swifogo",
+    "original_name": "Taylor Swift",
+    "text": "We never go out of style, assim como sua streak!",
+    "type": "motivation"
+  },
+  {
+    "id": "13",
+    "category": "celebrity_puns",
+    "author": "Cristiano Ronaldinho",
+    "original_name": "Cristiano Ronaldo",
+    "text": "SIIIIM! Mais um dia de streak!",
+    "type": "celebration"
+  },
+  {
+    "id": "14",
+    "category": "celebrity_puns",
+    "author": "Serena Willchamas",
+    "original_name": "Serena Williams",
+    "text": "Game, set, match... e streak mantida!",
+    "type": "celebration"
+  },
+  {
+    "id": "15",
+    "category": "celebrity_puns",
+    "author": "Usain Bolt Relâmpago",
+    "original_name": "Usain Bolt",
+    "text": "Rápido como um raio, constante como o fogo!",
+    "type": "motivation"
+  },
+  {
+    "id": "16",
+    "category": "celebrity_puns",
+    "author": "Michael Jordão",
+    "original_name": "Michael Jordan",
+    "text": "I took it personal... manter a streak é pessoal!",
+    "type": "motivation"
+  },
+  {
+    "id": "17",
+    "category": "celebrity_puns",
+    "author": "Albert Incenstein",
+    "original_name": "Albert Einstein",
+    "text": "E=mc²... Energia = Motivação x Consistência²!",
+    "type": "motivation"
+  },
+  {
+    "id": "18",
+    "category": "celebrity_puns",
+    "author": "Steve Chobs",
+    "original_name": "Steve Jobs",
+    "text": "Stay hungry, stay foolish... stay on fire!",
+    "type": "motivation"
+  },
+  {
+    "id": "19",
+    "category": "celebrity_puns",
+    "author": "Gandhi Brasas",
+    "original_name": "Gandhi",
+    "text": "Seja a chama que você quer ver no mundo!",
+    "type": "motivation"
+  },
+  {
+    "id": "20",
+    "category": "celebrity_puns",
+    "author": "Frida Kahlo Flamejante",
+    "original_name": "Frida Kahlo",
+    "text": "Pinto minha própria realidade... e minha streak também!",
+    "type": "motivation"
+  },
+  {
+    "id": "21",
+    "category": "celebrity_puns",
+    "author": "Ariana Brandé",
+    "original_name": "Ariana Grande",
+    "text": "Thank u, next... dia de streak!",
+    "type": "motivation"
+  },
+  {
+    "id": "22",
+    "category": "celebrity_puns",
+    "author": "Justin Timberlake Incendiário",
+    "original_name": "Justin Timberlake",
+    "text": "Can't stop the feeling... de manter a chama acesa!",
+    "type": "motivation"
+  },
+  {
+    "id": "23",
+    "category": "celebrity_puns",
+    "author": "Lady Gaga Chama",
+    "original_name": "Lady Gaga",
+    "text": "Born this way... para ser uma chama eterna!",
+    "type": "motivation"
+  },
+  {
+    "id": "24",
+    "category": "celebrity_puns",
+    "author": "Rihanna Incandescente",
+    "original_name": "Rihanna",
+    "text": "Shine bright like a diamond... e quente como fogo!",
+    "type": "motivation"
+  },
+  {
+    "id": "25",
+    "category": "celebrity_puns",
+    "author": "Tom Cruise Combustão",
+    "original_name": "Tom Cruise",
+    "text": "Mission Impossible? Impossível é quebrar sua streak!",
+    "type": "motivation"
+  },
+  {
+    "id": "26",
+    "category": "celebrity_puns",
+    "author": "Robert Downey Jr. Incêndio",
+    "original_name": "Robert Downey Jr.",
+    "text": "I am Iron Man... e você é Fire Person!",
+    "type": "motivation"
+  },
+  {
+    "id": "27",
+    "category": "celebrity_puns",
+    "author": "Oprah Winfogo",
+    "original_name": "Oprah Winfrey",
+    "text": "You get a streak! You get a streak! Everyone gets a streak!",
+    "type": "celebration"
+  },
+  {
+    "id": "28",
+    "category": "celebrity_puns",
+    "author": "Gordon Ramsay Flambado",
+    "original_name": "Gordon Ramsay",
+    "text": "This streak is RAW... ly amazing!",
+    "type": "celebration"
+  },
+  {
+    "id": "29",
+    "category": "celebrity_puns",
+    "author": "Elon Musk Foguete",
+    "original_name": "Elon Musk",
+    "text": "To the moon! Mas primeiro, mantenha a streak!",
+    "type": "motivation"
+  },
+  {
+    "id": "30",
+    "category": "celebrity_puns",
+    "author": "Barack Obama Chama",
+    "original_name": "Barack Obama",
+    "text": "Yes we can... manter essa streak acesa!",
+    "type": "motivation"
+  },
+  {
+    "id": "31",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Pequenas chamas diárias fazem grandes fogueiras anuais!",
+    "type": "motivation"
+  },
+  {
+    "id": "32",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Sua streak é como um dragão: quanto mais você alimenta, mais forte fica!",
+    "type": "motivation"
+  },
+  {
+    "id": "33",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Fogo que não se apaga é aquele que se alimenta todo dia!",
+    "type": "motivation"
+  },
+  {
+    "id": "34",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Cada dia é uma nova oportunidade de ser incendiário!",
+    "type": "motivation"
+  },
+  {
+    "id": "35",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Consistência é o combustível da transformação!",
+    "type": "motivation"
+  },
+  {
+    "id": "36",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Sua disciplina é mais quente que magma!",
+    "type": "motivation"
+  },
+  {
+    "id": "37",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Chamas pequenas hoje, fogueira gigante amanhã!",
+    "type": "motivation"
+  },
+  {
+    "id": "38",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Hábitos são fagulhas que viram incêndios de sucesso!",
+    "type": "motivation"
+  },
+  {
+    "id": "39",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Sua streak é prova de que você é imparável!",
+    "type": "motivation"
+  },
+  {
+    "id": "40",
+    "category": "general_motivation",
+    "author": "Firy",
+    "text": "Alimente seus sonhos como alimenta sua streak!",
+    "type": "motivation"
+  },
+  {
+    "id": "41",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Vulcões não perguntam se podem entrar em erupção... eles simplesmente explodem!",
+    "type": "motivation"
+  },
+  {
+    "id": "42",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Meteoros não pedem licença para brilhar no céu!",
+    "type": "motivation"
+  },
+  {
+    "id": "43",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Sua determinação é mais quente que lava derretida!",
+    "type": "motivation"
+  },
+  {
+    "id": "44",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Fênix não nasce das cinzas por acaso... ela conquista isso!",
+    "type": "encouragement"
+  },
+  {
+    "id": "45",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Diamantes se formam sob pressão, streaks se mantêm com persistência!",
+    "type": "motivation"
+  },
+  {
+    "id": "46",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Tempestades apagam velas, mas fortalecem fogueiras!",
+    "type": "motivation"
+  },
+  {
+    "id": "47",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Sua perseverança é combustível infinito!",
+    "type": "motivation"
+  },
+  {
+    "id": "48",
+    "category": "persistence",
+    "author": "Firy",
+    "text": "Desistir é jogar água no fogo do seu potencial!",
+    "type": "motivation"
+  },
+  {
+    "id": "49",
+    "category": "growth",
+    "author": "Firy",
+    "text": "Seu Firy evolui, mas você evolui junto!",
+    "type": "motivation"
+  },
+  {
+    "id": "50",
+    "category": "growth",
+    "author": "Firy",
+    "text": "De ovo para dragão: a jornada de mil dias começa com um clique!",
+    "type": "motivation"
+  },
+  {
+    "id": "51",
+    "category": "growth",
+    "author": "Firy",
+    "text": "Cada streak é uma fagulha na fogueira do seu crescimento!",
+    "type": "motivation"
+  },
+  {
+    "id": "52",
+    "category": "growth",
+    "author": "Firy",
+    "text": "Transforme rotina em ritual, e ritual em revolução!",
+    "type": "motivation"
+  },
+  {
+    "id": "53",
+    "category": "growth",
+    "author": "Firy",
+    "text": "Sua versão de ontem já foi superada pela chama de hoje!",
+    "type": "motivation"
+  },
+  {
+    "id": "54",
+    "category": "growth",
+    "author": "Firy",
+    "text": "Evolução é o nome do jogo, consistência é a regra!",
+    "type": "motivation"
+  },
+  {
+    "id": "55",
+    "category": "growth",
+    "author": "Firy",
+    "text": "Cada dia alimentado é um upgrade na sua vida!",
+    "type": "motivation"
+  },
+  {
+    "id": "56",
+    "category": "growth",
+    "author": "Firy",
+    "text": "Plantas crescem em direção ao sol, você cresce em direção aos seus sonhos!",
+    "type": "motivation"
+  },
+  {
+    "id": "57",
+    "category": "long_streak",
+    "author": "Firy",
+    "text": "Você está mais quente que o núcleo da Terra!",
+    "type": "celebration"
+  },
+  {
+    "id": "58",
+    "category": "long_streak",
+    "author": "Firy",
+    "text": "Sua streak está fazendo o Sol sentir ciúmes!",
+    "type": "celebration"
+  },
+  {
+    "id": "59",
+    "category": "long_streak",
+    "author": "Firy",
+    "text": "Parabéns! Você está oficialmente pegando fogo!",
+    "type": "celebration"
+  },
+  {
+    "id": "60",
+    "category": "long_streak",
+    "author": "Firy",
+    "text": "Sua dedicação é lendária como um dragão antigo!",
+    "type": "celebration"
+  },
+  {
+    "id": "61",
+    "category": "long_streak",
+    "author": "Firy",
+    "text": "Você é a definição de consistência em chamas!",
+    "type": "celebration"
+  },
+  {
+    "id": "62",
+    "category": "long_streak",
+    "author": "Firy",
+    "text": "Sua streak brilha mais que estrelas no céu!",
+    "type": "celebration"
+  },
+  {
+    "id": "63",
+    "category": "streak_lost",
+    "author": "Firy",
+    "text": "Toda fênix precisa de cinzas para renascer mais forte!",
+    "type": "encouragement"
+  },
+  {
+    "id": "64",
+    "category": "streak_lost",
+    "author": "Firy",
+    "text": "Vulcões dormem, mas sempre voltam com mais força!",
+    "type": "encouragement"
+  },
+  {
+    "id": "65",
+    "category": "streak_lost",
+    "author": "Firy",
+    "text": "Recomeçar é a arte de transformar cinzas em chamas!",
+    "type": "encouragement"
+  },
+  {
+    "id": "66",
+    "category": "streak_lost",
+    "author": "Firy",
+    "text": "Tropços são apenas oportunidades para fogueiras maiores!",
+    "type": "encouragement"
+  },
+  {
+    "id": "67",
+    "category": "streak_lost",
+    "author": "Firy",
+    "text": "Sua próxima streak será épica como renascimento de fênix!",
+    "type": "encouragement"
+  },
+  {
+    "id": "68",
+    "category": "streak_lost",
+    "author": "Firy",
+    "text": "Fogo apagado hoje, vulcão em erupção amanhã!",
+    "type": "encouragement"
+  },
+  {
+    "id": "69",
+    "category": "loading",
+    "author": "Firy",
+    "text": "Carregando sua dose diária de motivação incendiária...",
+    "type": "loading_tip"
+  },
+  {
+    "id": "70",
+    "category": "loading",
+    "author": "Firy",
+    "text": "Aquecendo os motores da sua jornada flamejante...",
+    "type": "loading_tip"
+  },
+  {
+    "id": "71",
+    "category": "loading",
+    "author": "Firy",
+    "text": "Acendendo a faísca do seu dia extraordinário...",
+    "type": "loading_tip"
+  },
+  {
+    "id": "72",
+    "category": "loading",
+    "author": "Firy",
+    "text": "Preparando o combustível para sua streak épica...",
+    "type": "loading_tip"
+  },
+  {
+    "id": "73",
+    "category": "loading",
+    "author": "Firy",
+    "text": "Ativando modo dragão... aguarde a ignição!",
+    "type": "loading_tip"
+  },
+  {
+    "id": "74",
+    "category": "loading",
+    "author": "Firy",
+    "text": "Consultando o oráculo das chamas eternas...",
+    "type": "loading_tip"
+  },
+  {
+    "id": "75",
+    "category": "loading",
+    "author": "Firy",
+    "text": "Sincronizando com a energia cósmica do fogo...",
+    "type": "loading_tip"
+  },
+  {
+    "id": "76",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Hora de alimentar sua chama interior!",
+    "type": "notification"
+  },
+  {
+    "id": "77",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Seu Firy está esperando por você!",
+    "type": "notification"
+  },
+  {
+    "id": "78",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Mais um dia, mais uma fagulha!",
+    "type": "notification"
+  },
+  {
+    "id": "79",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Sua streak não se alimenta sozinha!",
+    "type": "notification"
+  },
+  {
+    "id": "80",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Fogo baixo, mas ainda queimando!",
+    "type": "notification"
+  },
+  {
+    "id": "81",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Sua chama está chamando você!",
+    "type": "notification"
+  },
+  {
+    "id": "82",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Dragões não hibernam, nem você deveria!",
+    "type": "notification"
+  },
+  {
+    "id": "83",
+    "category": "notifications",
+    "author": "Firy",
+    "text": "Sua streak está sentindo sua falta!",
+    "type": "notification"
+  },
+  {
+    "id": "84",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Verão chegou, mas sua streak já estava quente o ano todo!",
+    "type": "seasonal_summer"
+  },
+  {
+    "id": "85",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Sol forte lá fora, determinação mais forte aqui dentro!",
+    "type": "seasonal_summer"
+  },
+  {
+    "id": "86",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Praia e calor, mas sua streak é mais quente ainda!",
+    "type": "seasonal_summer"
+  },
+  {
+    "id": "87",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Inverno gelado? Sua streak mantém você aquecido!",
+    "type": "seasonal_winter"
+  },
+  {
+    "id": "88",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Até o inverno mais rigoroso não apaga uma chama determinada!",
+    "type": "seasonal_winter"
+  },
+  {
+    "id": "89",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Lareira acesa lá fora, streak acesa aqui dentro!",
+    "type": "seasonal_winter"
+  },
+  {
+    "id": "90",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Ano novo, streak nova, você renovado!",
+    "type": "seasonal_new_year"
+  },
+  {
+    "id": "91",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Resolução de ano novo: manter o fogo aceso 365 dias!",
+    "type": "seasonal_new_year"
+  },
+  {
+    "id": "92",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Fogos de artifício no céu, streak de artifício na vida!",
+    "type": "seasonal_new_year"
+  },
+  {
+    "id": "93",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Finalizando o ano com chave de ouro... e fogo!",
+    "type": "seasonal_year_end"
+  },
+  {
+    "id": "94",
+    "category": "seasonal",
+    "author": "Firy",
+    "text": "Sua streak de fim de ano é mais brilhante que fogos de artifício!",
+    "type": "seasonal_year_end"
+  },
+  {
+    "id": "95",
+    "category": "fun",
+    "author": "Firy",
+    "text": "Sua streak é mais viciante que Netflix!",
+    "type": "motivation"
+  },
+  {
+    "id": "96",
+    "category": "fun",
+    "author": "Firy",
+    "text": "Plot twist: você é o protagonista da própria jornada!",
+    "type": "motivation"
+  },
+  {
+    "id": "97",
+    "category": "fun",
+    "author": "Firy",
+    "text": "Sua consistência é mais confiável que Wi-Fi!",
+    "type": "motivation"
+  },
+  {
+    "id": "98",
+    "category": "fun",
+    "author": "Firy",
+    "text": "Você coleciona dias de streak como cartas raras!",
+    "type": "motivation"
+  },
+  {
+    "id": "99",
+    "category": "fun",
+    "author": "Firy",
+    "text": "Sua streak é trending topic no mundo dos hábitos!",
+    "type": "celebration"
+  },
+  {
+    "id": "100",
+    "category": "fun",
+    "author": "Firy",
+    "text": "Level up! Você desbloqueou o título 'Guardião das Chamas'!",
+    "type": "celebration"
+  }
+]
